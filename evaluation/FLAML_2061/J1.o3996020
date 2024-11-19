@@ -1,0 +1,19 @@
+AutoML version: 1.0.0
+model location: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/FLAML/2061_2070_CAM.pkl
+LGBMRegressor(colsample_bytree=0.8445401788913987,
+              learning_rate=0.021608387533871138, max_bin=1023,
+              min_child_samples=8, n_estimators=3881, num_leaves=14428,
+              reg_alpha=0.04853258602337393, reg_lambda=0.06403221181156248,
+              verbose=-1)
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_003_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_004_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_005_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_006_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_007_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_008_2061_2070.parquet.gzip

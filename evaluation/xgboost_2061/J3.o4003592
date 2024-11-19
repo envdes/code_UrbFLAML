@@ -1,0 +1,26 @@
+AutoML version: 1.0.0
+model location: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/xgboost/2061_2070_CAM.pkl
+XGBRegressor(base_score=0.5, booster='gbtree',
+             colsample_bylevel=0.7095248215878699, colsample_bynode=1,
+             colsample_bytree=1.0, gamma=0, gpu_id=-1, grow_policy='lossguide',
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.011505994739951921, max_delta_step=0, max_depth=0,
+             max_leaves=6455, min_child_weight=64.7863637973201, missing=nan,
+             monotone_constraints='()', n_estimators=2613, n_jobs=-1,
+             num_parallel_tree=1, random_state=0,
+             reg_alpha=0.011626157533539305, reg_lambda=0.04382230111460485,
+             scale_pos_weight=1, subsample=0.7926421145691654,
+             tree_method='hist', use_label_encoder=False, validate_parameters=1,
+             verbosity=0)
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost/CAM_015_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost/CAM_016_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost/CAM_017_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost/CAM_018_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost/CAM_019_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost/CAM_020_2061_2070.parquet.gzip

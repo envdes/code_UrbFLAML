@@ -1,0 +1,23 @@
+AutoML version: 1.0.0
+XGBRegressor(base_score=0.5, booster='gbtree',
+             colsample_bylevel=0.8838768580520949, colsample_bynode=1,
+             colsample_bytree=1.0, gamma=0, gpu_id=-1, grow_policy='lossguide',
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.025311686178485518, max_delta_step=0, max_depth=0,
+             max_leaves=372, min_child_weight=4.302606809684285, missing=nan,
+             monotone_constraints='()', n_estimators=893, n_jobs=-1,
+             num_parallel_tree=1, random_state=0, reg_alpha=0.01830989937195095,
+             reg_lambda=0.07452873374584942, scale_pos_weight=1,
+             subsample=0.5866836156146912, tree_method='hist',
+             use_label_encoder=False, validate_parameters=1, verbosity=0)
+XGBRegressor(base_score=0.5, booster='gbtree',
+             colsample_bylevel=0.8838768580520949, colsample_bynode=1,
+             colsample_bytree=1.0, gamma=0, gpu_id=-1, grow_policy='lossguide',
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.025311686178485518, max_delta_step=0, max_depth=0,
+             max_leaves=372, min_child_weight=4.302606809684285, missing=nan,
+             monotone_constraints='()', n_estimators=893, n_jobs=-1,
+             num_parallel_tree=1, random_state=0, reg_alpha=0.01830989937195095,
+             reg_lambda=0.07452873374584942, scale_pos_weight=1,
+             subsample=0.5866836156146912, tree_method='hist',
+             use_label_encoder=False, validate_parameters=1, verbosity=0)

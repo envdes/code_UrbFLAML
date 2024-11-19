@@ -1,0 +1,25 @@
+AutoML version: 1.0.0
+model location: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/xgboost/2006_2015_CAM_loc.pkl
+XGBRegressor(base_score=0.5, booster='gbtree',
+             colsample_bylevel=0.7493616073606298, colsample_bynode=1,
+             colsample_bytree=1.0, gamma=0, gpu_id=-1, grow_policy='lossguide',
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.038547793390872664, max_delta_step=0, max_depth=0,
+             max_leaves=1521, min_child_weight=0.09765044587770325, missing=nan,
+             monotone_constraints='()', n_estimators=4931, n_jobs=-1,
+             num_parallel_tree=1, random_state=0, reg_alpha=1.0130635053331125,
+             reg_lambda=0.19159977672921022, scale_pos_weight=1, subsample=1.0,
+             tree_method='hist', use_label_encoder=False, validate_parameters=1,
+             verbosity=0)
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost_climate/CAM_loc_015_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost_climate/CAM_loc_016_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost_climate/CAM_loc_017_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost_climate/CAM_loc_018_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost_climate/CAM_loc_019_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/xgboost_climate/CAM_loc_020_2061_2070.parquet.gzip

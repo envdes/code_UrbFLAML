@@ -1,0 +1,19 @@
+AutoML version: 1.0.0
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+check if three points are still in the dataframe
+[Empty DataFrame
+Columns: [time, lat, lon, TREFMXAV_U, FLNS, FSNS, PRECT, PRSN, QBOT, TREFHT, UBOT, VBOT, member]
+Index: [], Empty DataFrame
+Columns: [time, lat, lon, TREFMXAV_U, FLNS, FSNS, PRECT, PRSN, QBOT, TREFHT, UBOT, VBOT, member]
+Index: [], Empty DataFrame
+Columns: [time, lat, lon, TREFMXAV_U, FLNS, FSNS, PRECT, PRSN, QBOT, TREFHT, UBOT, VBOT, member]
+Index: []]
+number of removed samples: 11354
+LGBMRegressor(colsample_bytree=0.8519823430330318,
+              learning_rate=0.02587989528620269, max_bin=1023,
+              min_child_samples=8, n_estimators=18443, num_leaves=346,
+              reg_alpha=1.2484870030586557, reg_lambda=0.13174874059388877,
+              verbose=-1)
+training rmse: 0.7352177339654541
+training r2: 0.9952912814247388
+training mean_absolute_error: 0.5387432810053799

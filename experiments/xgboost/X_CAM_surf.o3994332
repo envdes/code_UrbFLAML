@@ -1,0 +1,1 @@
+/var/spool/pbs/mom_priv/jobs/3994332.chadmin1.ib0.cheyenne.ucar.edu.SC: line 21: 57952 Bus error               python train_random.py "["CAM","surf"]" "2006" "2015"

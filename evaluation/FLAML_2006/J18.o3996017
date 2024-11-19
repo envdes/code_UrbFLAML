@@ -1,0 +1,19 @@
+AutoML version: 1.0.0
+model location: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/FLAML/2006_2015_CAM_surf_loc.pkl
+LGBMRegressor(colsample_bytree=0.5389295843070607,
+              learning_rate=0.02247347321035838, max_bin=1023,
+              min_child_samples=9, n_estimators=32767, num_leaves=495,
+              reg_alpha=0.00706357318094864, reg_lambda=0.04950682421772725,
+              verbose=-1)
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'CANYON_HWR', 'EM_IMPROAD', 'EM_PERROAD', 'EM_ROOF', 'EM_WALL', 'HT_ROOF', 'THICK_ROOF', 'THICK_WALL', 'T_BUILDING_MAX', 'T_BUILDING_MIN', 'WTLUNIT_ROOF', 'WTROAD_PERV', 'NLEV_IMPROAD', 'PCT_URBAN', 'ALB_IMPROAD', 'ALB_PERROAD', 'ALB_ROOF', 'ALB_WALL', 'TK_ROOF', 'TK_WALL', 'CV_ROOF', 'CV_WALL', 'TK_IMPROAD_0', 'CV_IMPROAD_0', 'TK_IMPROAD_1', 'CV_IMPROAD_1', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_surf_loc_015_2006_2015.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'CANYON_HWR', 'EM_IMPROAD', 'EM_PERROAD', 'EM_ROOF', 'EM_WALL', 'HT_ROOF', 'THICK_ROOF', 'THICK_WALL', 'T_BUILDING_MAX', 'T_BUILDING_MIN', 'WTLUNIT_ROOF', 'WTROAD_PERV', 'NLEV_IMPROAD', 'PCT_URBAN', 'ALB_IMPROAD', 'ALB_PERROAD', 'ALB_ROOF', 'ALB_WALL', 'TK_ROOF', 'TK_WALL', 'CV_ROOF', 'CV_WALL', 'TK_IMPROAD_0', 'CV_IMPROAD_0', 'TK_IMPROAD_1', 'CV_IMPROAD_1', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_surf_loc_016_2006_2015.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'CANYON_HWR', 'EM_IMPROAD', 'EM_PERROAD', 'EM_ROOF', 'EM_WALL', 'HT_ROOF', 'THICK_ROOF', 'THICK_WALL', 'T_BUILDING_MAX', 'T_BUILDING_MIN', 'WTLUNIT_ROOF', 'WTROAD_PERV', 'NLEV_IMPROAD', 'PCT_URBAN', 'ALB_IMPROAD', 'ALB_PERROAD', 'ALB_ROOF', 'ALB_WALL', 'TK_ROOF', 'TK_WALL', 'CV_ROOF', 'CV_WALL', 'TK_IMPROAD_0', 'CV_IMPROAD_0', 'TK_IMPROAD_1', 'CV_IMPROAD_1', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_surf_loc_017_2006_2015.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'CANYON_HWR', 'EM_IMPROAD', 'EM_PERROAD', 'EM_ROOF', 'EM_WALL', 'HT_ROOF', 'THICK_ROOF', 'THICK_WALL', 'T_BUILDING_MAX', 'T_BUILDING_MIN', 'WTLUNIT_ROOF', 'WTROAD_PERV', 'NLEV_IMPROAD', 'PCT_URBAN', 'ALB_IMPROAD', 'ALB_PERROAD', 'ALB_ROOF', 'ALB_WALL', 'TK_ROOF', 'TK_WALL', 'CV_ROOF', 'CV_WALL', 'TK_IMPROAD_0', 'CV_IMPROAD_0', 'TK_IMPROAD_1', 'CV_IMPROAD_1', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_surf_loc_018_2006_2015.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'CANYON_HWR', 'EM_IMPROAD', 'EM_PERROAD', 'EM_ROOF', 'EM_WALL', 'HT_ROOF', 'THICK_ROOF', 'THICK_WALL', 'T_BUILDING_MAX', 'T_BUILDING_MIN', 'WTLUNIT_ROOF', 'WTROAD_PERV', 'NLEV_IMPROAD', 'PCT_URBAN', 'ALB_IMPROAD', 'ALB_PERROAD', 'ALB_ROOF', 'ALB_WALL', 'TK_ROOF', 'TK_WALL', 'CV_ROOF', 'CV_WALL', 'TK_IMPROAD_0', 'CV_IMPROAD_0', 'TK_IMPROAD_1', 'CV_IMPROAD_1', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_surf_loc_019_2006_2015.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'CANYON_HWR', 'EM_IMPROAD', 'EM_PERROAD', 'EM_ROOF', 'EM_WALL', 'HT_ROOF', 'THICK_ROOF', 'THICK_WALL', 'T_BUILDING_MAX', 'T_BUILDING_MIN', 'WTLUNIT_ROOF', 'WTROAD_PERV', 'NLEV_IMPROAD', 'PCT_URBAN', 'ALB_IMPROAD', 'ALB_PERROAD', 'ALB_ROOF', 'ALB_WALL', 'TK_ROOF', 'TK_WALL', 'CV_ROOF', 'CV_WALL', 'TK_IMPROAD_0', 'CV_IMPROAD_0', 'TK_IMPROAD_1', 'CV_IMPROAD_1', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/FLAML/CAM_surf_loc_020_2006_2015.parquet.gzip

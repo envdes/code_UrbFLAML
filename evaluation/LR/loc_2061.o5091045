@@ -1,0 +1,64 @@
+AutoML version: 1.0.0
+  0%|          | 0/31 [00:00<?, ?it/s]  3%|▎         | 1/31 [00:00<00:16,  1.84it/s]  6%|▋         | 2/31 [00:00<00:11,  2.43it/s] 10%|▉         | 3/31 [00:01<00:10,  2.69it/s] 13%|█▎        | 4/31 [00:01<00:10,  2.68it/s] 16%|█▌        | 5/31 [00:01<00:09,  2.72it/s] 19%|█▉        | 6/31 [00:02<00:08,  2.85it/s] 23%|██▎       | 7/31 [00:02<00:08,  2.93it/s] 26%|██▌       | 8/31 [00:02<00:07,  2.99it/s] 29%|██▉       | 9/31 [00:03<00:07,  2.85it/s] 32%|███▏      | 10/31 [00:03<00:07,  2.96it/s] 35%|███▌      | 11/31 [00:03<00:06,  2.99it/s] 39%|███▊      | 12/31 [00:04<00:06,  2.97it/s] 42%|████▏     | 13/31 [00:04<00:06,  2.98it/s] 45%|████▌     | 14/31 [00:04<00:05,  2.99it/s] 48%|████▊     | 15/31 [00:05<00:05,  3.04it/s] 52%|█████▏    | 16/31 [00:05<00:04,  3.05it/s] 55%|█████▍    | 17/31 [00:05<00:04,  3.02it/s] 58%|█████▊    | 18/31 [00:06<00:04,  3.13it/s] 61%|██████▏   | 19/31 [00:06<00:03,  3.15it/s] 65%|██████▍   | 20/31 [00:06<00:03,  3.11it/s] 68%|██████▊   | 21/31 [00:07<00:03,  3.10it/s] 71%|███████   | 22/31 [00:07<00:02,  3.11it/s] 74%|███████▍  | 23/31 [00:07<00:02,  3.12it/s] 77%|███████▋  | 24/31 [00:08<00:02,  2.91it/s] 81%|████████  | 25/31 [00:08<00:02,  2.98it/s] 84%|████████▍ | 26/31 [00:08<00:01,  3.03it/s] 87%|████████▋ | 27/31 [00:09<00:01,  3.05it/s] 90%|█████████ | 28/31 [00:09<00:00,  3.03it/s] 94%|█████████▎| 29/31 [00:09<00:00,  3.13it/s] 97%|█████████▋| 30/31 [00:10<00:00,  3.17it/s]100%|██████████| 31/31 [00:10<00:00,  3.17it/s]100%|██████████| 31/31 [00:10<00:00,  2.98it/s]
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_003_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_004_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_005_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_006_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_007_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_008_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_009_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_010_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_011_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_012_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_013_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_014_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_015_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_016_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_017_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_018_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_019_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_020_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_021_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_022_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_023_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_024_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_025_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_026_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_027_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_028_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_029_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_030_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_031_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_032_2061_2070.parquet.gzip
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT', 'lat', 'lon']
+data loc: /glade/scratch/zhonghua/urban_params/urban_LE_random_split/eval/LR/CAM_loc_033_2061_2070.parquet.gzip

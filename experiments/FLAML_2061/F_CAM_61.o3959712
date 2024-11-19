@@ -1,0 +1,10 @@
+AutoML version: 1.0.0
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+LGBMRegressor(colsample_bytree=0.8445401788913987,
+              learning_rate=0.021608387533871138, max_bin=1023,
+              min_child_samples=8, n_estimators=3881, num_leaves=14428,
+              reg_alpha=0.04853258602337393, reg_lambda=0.06403221181156248,
+              verbose=-1)
+training rmse: 0.9108072661763926
+training r2: 0.9927744524298779
+training mean_absolute_error: 0.6718669814176537

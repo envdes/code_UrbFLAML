@@ -1,0 +1,6 @@
+AutoML version: 1.0.0
+LGBMRegressor(colsample_bytree=0.8445401788913987,
+              learning_rate=0.021608387533871138, max_bin=1023,
+              min_child_samples=8, n_estimators=3881, num_leaves=14428,
+              reg_alpha=0.04853258602337393, reg_lambda=0.06403221181156248,
+              verbose=-1)

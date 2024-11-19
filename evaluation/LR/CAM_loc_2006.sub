@@ -1,0 +1,21 @@
+#!/bin/bash -l
+### Job Name
+#PBS -N loc_2006
+### Project code
+#PBS -A P54048000
+#PBS -l walltime=02:00:00
+#PBS -q regular
+### Merge output and error files
+#PBS -j oe
+### Select 1 nodes with 8 CPUs 
+#PBS -l select=1:ncpus=8
+### Send email on abort, begin and end
+#PBS -m abe
+### Specify mail recipient
+#PBS -M zhonghua@ucar.edu
+
+### reference: https://arc.ucar.edu/knowledge_base/72581396
+### reference: https://github.com/zzheng93/code_DSI_India_AutoML/blob/main/2_automl/automl/flaml_clusters/train_clusters.sub
+
+source /glade/work/zhonghua/miniconda3/bin/activate aws_urban
+python get_pred_LR.py "["CAM","loc"]" "2006" "2015" "LR" "003" "034"

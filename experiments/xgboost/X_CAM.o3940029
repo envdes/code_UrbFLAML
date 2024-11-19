@@ -1,0 +1,17 @@
+AutoML version: 1.0.0
+['FLNS', 'FSNS', 'PRECT', 'PRSN', 'QBOT', 'TREFHT', 'UBOT', 'VBOT']
+XGBRegressor(base_score=0.5, booster='gbtree',
+             colsample_bylevel=0.4152805520605849, colsample_bynode=1,
+             colsample_bytree=1.0, gamma=0, gpu_id=-1, grow_policy='lossguide',
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.02143924901187278, max_delta_step=0, max_depth=0,
+             max_leaves=275, min_child_weight=128.0, missing=nan,
+             monotone_constraints='()', n_estimators=20454, n_jobs=-1,
+             num_parallel_tree=1, random_state=0,
+             reg_alpha=0.006655381257761392, reg_lambda=0.5654275271448871,
+             scale_pos_weight=1, subsample=0.7104480285795113,
+             tree_method='hist', use_label_encoder=False, validate_parameters=1,
+             verbosity=0)
+training rmse: 1.330022
+training r2: 0.9851254326498111
+training mean_absolute_error: 0.97826844
